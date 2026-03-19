@@ -22,6 +22,16 @@ Make sure the server is running before starting the client.
 
 ---
 
+## 📌 Contributions & History
+
+This repository represents a refined version of the project.
+
+For full commit history and earlier contributions, please refer to:
+
+👉 https://github.com/hellsten/Instock-Server-Archived
+
+---
+
 ## 🧩 Features
 
 * View and manage warehouses
@@ -149,4 +159,5 @@ Jessica Hellsten
 GitHub: https://github.com/hellsten
 
 ---
+
 
